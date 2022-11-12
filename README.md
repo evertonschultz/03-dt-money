@@ -1,4 +1,6 @@
-# DT MONEY
+<h1 align="center">
+    <img alt="IgniteTimer" title="#DT-MONEY" src="./src/assets/layout/capa.png" />
+</h1>
 
 ## 💻 Sobre o projeto
 
